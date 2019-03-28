@@ -1,0 +1,19 @@
+.clearfix:after{
+		clear: both;
+		content: '';
+		display: block;
+		height: 0;
+		visibility: hidden;
+	}
+	.fl{
+		float: left;
+	}
+	.fr{
+		float: right;
+	}
+	ul li{
+		list-style: none;
+	}
+	img{
+		width: 100%;
+	}
